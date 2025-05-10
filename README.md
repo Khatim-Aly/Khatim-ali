@@ -4,7 +4,6 @@
 - 🔧 I work with Solidity, Hardhat, Web3.js, Ethers.js
 - 📦 I build and audit smart contracts for Ethereum, BSC, Polygon
 - 🛠️ Currently building NFT, DeFi, and DAO projects
-- 🌐 Portfolio: [yourportfolio.com]
 - 📬 Contact:  alikhatimali@gmail.con
 
 ## 🧰 Tech Stack
@@ -15,4 +14,3 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 
 ## 📊 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
